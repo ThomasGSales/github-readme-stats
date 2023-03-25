@@ -416,6 +416,13 @@ export const themes = {
     border_color: "85A4C0",
     bg_color: "030314",
   },
+  redandblack:  {
+    title_color: "FF0000",
+    text_color: "FF0000",
+    icon_color: "FFFFFF",
+    border_color: "FF0000",
+    bg_color: "1C1C1C",
+  };
 };
 
 export default themes;
